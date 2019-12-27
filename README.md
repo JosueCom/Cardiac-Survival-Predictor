@@ -1,0 +1,5 @@
+# Cardiac-Survival-Predictor
+
+## Abstract
+	
+Patient survival and mortality has long been studied from the context of medical and non-medical factors both within and outside of hospital settings. Cardiac conditions are often the cause of admission to a hospital’s intensive care unit. Survival after an ICU stay with a cardiac diagnosis may vary depending on socioeconomic status and other social and demographic factors. This study aims to predict patient survival of an ICU stay on the basis of social and demographic factors among those who have frequently occurring cardiac diagnoses, namely congestive heart failure and atrial fibrillation. This study determines that factors such as gender, age, admission type, insurance type, marital status, diagnoses, and previous and current ICU unit admissions have predictive power in determining the survival of a patient. The proposed model utilizes neural networks and generates predictions with 88.29% accuracy, thereby confirming the predictive power of social and demographic factors.
